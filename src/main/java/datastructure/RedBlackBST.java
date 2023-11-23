@@ -1,5 +1,7 @@
 package datastructure;
 
+import java.util.Collections;
+
 /**
  * @Description: from Algorithm 4th Princeton
  * @Author: whj
