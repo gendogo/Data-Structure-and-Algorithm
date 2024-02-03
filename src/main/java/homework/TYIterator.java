@@ -1,4 +1,4 @@
-package practise;
+package homework;
 
 /**
  * @Description: disc05 No.3

@@ -1,4 +1,4 @@
-package practise;
+package homework;
 
 /**
  * @Description: Dicussion3 exam No.3

@@ -1,4 +1,4 @@
-package practise;
+package homework;
 
 /**
  * @Description: dis05 exam 01
